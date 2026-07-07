@@ -285,7 +285,7 @@ Sources:
 
 ### 3.5 Recent press on pricing or business model
 
-- **Feb 2025 Series E:** $300M at $5.3B valuation, led by a16z and Khosla. Public framing: "scale to meet accelerating demand." (https://www.fiercehealthcare.com/ai-and-machine-learning/ambient-ai-startup-abridge-scores-300m-series-e-backed-a16z-and-khosla)
+- **Feb 2025 Series E: $300M at $5.3B valuation, led by a16z and Khosla.** Public framing: "scale to meet accelerating demand." (https://www.fiercehealthcare.com/ai-and-machine-learning/ambient-ai-startup-abridge-scores-300m-series-e-backed-a16z-and-khosla)
 - **No public pricing changes announced.**
 - **STAT News (Apr 2026):** Reported that "scribes saved clinicians under 1 minute per clinical note" in some studies, suggesting real-world value capture is below the marketing — this could pressure pricing. (https://www.statnews.com/2026/04/01/ai-ambient-scribes-modest-time-savings-clinical-documentation/)
 

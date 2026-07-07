@@ -107,7 +107,7 @@ A high total = the most leverage.
 ### 2. Movement disorders (Total: 15)
 
 **Why this is strong:**
-- 1M Parkinson's patients, 7M essential tremor — *current Parkinson's Foundation figure is 1.1M (1,112,643)*
+- **1.1M Parkinson's patients (Parkinson's Foundation), 7M essential tremor**
 - UPDRS scoring is required at every visit (manual, time-consuming, error-prone)
 - Apple Watch Movement Disorders API gives tremor/dyskinesia stream
 - Rune Labs StrivePD owns the device side but not the in-clinic synthesis
@@ -136,7 +136,7 @@ A high total = the most leverage.
 ### 3. Cognitive / Dementia (Total: 25)
 
 **Why this is the highest social-impact play:**
-- 6.5M US Alzheimer's patients — *figure is from earlier research; current authoritative number is 7.4M per Alzheimer's Association 2026 Facts & Figures (re-verify before Week 8)*
+- **7.4M Alzheimer's patients in US (2026, Alzheimer's Association Facts & Figures)**, projected to ~13M by 2050
 - Only 4 geriatric neurology fellowship sites in the whole US
 - Caregiver is the real information source (per Reddit research)
 - 4-year average diagnostic journey, often misdiagnosed
