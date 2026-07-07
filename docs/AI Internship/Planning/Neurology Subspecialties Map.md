@@ -1,6 +1,6 @@
 ---
 title: Neurology Subspecialties Map
-updated: 2026-07-07 11:46 EDT
+updated: 2026-07-07 12:24 EDT
 ---
 
 #capstone #ai-internship #neurology #subspecialties
@@ -37,11 +37,11 @@ A high total = the most leverage.
 
 | Subspecialty | Sites | US prevalence | AI maturity | Pain | Shortage | Build | Total | Wedge |
 |---|---|---|---|---|---|---|---|---|
-| **Headache / Migraine** | 41 UCNS | 47M (2nd highest DALY globally) | 1 (greenfield) | 5 (massive dismissal) | 5 (3,700 needed vs. 500) | 1 (transcript-only) | **25** | Scribe + pre-visit synthesis, no imaging layer |
-| **Movement disorders (PD, ET, dystonia)** | 48 | 1M Parkinson's, 7M ET | 2 (StrivePD, Cala Health) | 5 (UPDRS drift, dyskinesia) | 4 (4,000+ wait lists per Reddit) | 3 (chart + wearable) | **15** | Trajectory tracking + wearable merge |
+| **Headache / Migraine** | 41 UCNS | 47M (2nd highest DALY globally) | 1 (greenfield) | 5 (massive dismissal) | 5 (**564 accredited specialists vs. 3,700 needed** — mdedge 2024) | 1 (transcript-only) | **25** | Scribe + pre-visit synthesis, no imaging layer |
+| **Movement disorders (PD, ET, dystonia)** | 48 | **1.1M Parkinson's, 7M ET** | 2 (StrivePD, Cala Health) | 5 (UPDRS drift, dyskinesia) | 4 (4,000+ wait lists per Reddit) | 3 (chart + wearable) | **15** | Trajectory tracking + wearable merge |
 | **Epilepsy** | 77 ACGME | 3.4M US, 50M global | 2 (Ceribell, encevis) | 5 (EEG dismissal = gaslighting) | 3 | 3 (chart + EEG) | **15** | EEG-visit synthesis, seizure calendar |
-| **Multiple sclerosis** | 20 | 1M US | 3 (NeuroQuant, multiple DMTs) | 5 (13-year diagnostic journeys) | 3 | 2 (chart + MRI) | **10** | Trajectory + lesion tracking |
-| **Cognitive / Behavioral / Dementia** | 35 (BNNP), 4 (geriatric) | 6.5M Alzheimer's, 100K FTD | 2 (Cortechs) | 5 (caregiver pain, 4-year diagnostic) | 5 (only 4 geriatric neuro sites) | 2 (chart + caregiver) | **25** | Caregiver-in-the-loop, longitudinal |
+| **Multiple sclerosis** | 20 | **1.1M US** | 3 (NeuroQuant, multiple DMTs) | 5 (13-year diagnostic journeys) | 3 | 2 (chart + MRI) | **10** | Trajectory + lesion tracking |
+| **Cognitive / Behavioral / Dementia** | 35 (BNNP), 4 (geriatric) | **7.4M Alzheimer's (2026, Alzheimer's Association Facts & Figures)**, 100K FTD | 2 (Cortechs) | 5 (caregiver pain, 4-year diagnostic) | 5 (only 4 geriatric neuro sites — re-verify against UCNS directory) | 2 (chart + caregiver) | **25** | Caregiver-in-the-loop, longitudinal |
 
 ### Tier 2 — Solid opportunities
 
@@ -77,7 +77,7 @@ A high total = the most leverage.
 
 **Why this is the strongest starting point:**
 - 47M US patients — biggest prevalence of any neuro condition
-- 3,700 headache specialists needed vs. 500 currently → severe shortage
+- 3,700 headache specialists needed vs. 564 currently → severe shortage
 - 70% of migraine patients are undiagnosed or under-treated
 - Reddit research shows massive patient pain: "brushed off," "yelled at," "told to drink water"
 - Most chief complaint in general neurology visits (general neuro is mostly headache)
@@ -107,7 +107,7 @@ A high total = the most leverage.
 ### 2. Movement disorders (Total: 15)
 
 **Why this is strong:**
-- 1M Parkinson's patients, 7M essential tremor
+- 1M Parkinson's patients, 7M essential tremor — *current Parkinson's Foundation figure is 1.1M (1,112,643)*
 - UPDRS scoring is required at every visit (manual, time-consuming, error-prone)
 - Apple Watch Movement Disorders API gives tremor/dyskinesia stream
 - Rune Labs StrivePD owns the device side but not the in-clinic synthesis
@@ -136,7 +136,7 @@ A high total = the most leverage.
 ### 3. Cognitive / Dementia (Total: 25)
 
 **Why this is the highest social-impact play:**
-- 6.5M Alzheimer's patients in US, projected to 13M by 2050
+- 6.5M US Alzheimer's patients — *figure is from earlier research; current authoritative number is 7.4M per Alzheimer's Association 2026 Facts & Figures (re-verify before Week 8)*
 - Only 4 geriatric neurology fellowship sites in the whole US
 - Caregiver is the real information source (per Reddit research)
 - 4-year average diagnostic journey, often misdiagnosed

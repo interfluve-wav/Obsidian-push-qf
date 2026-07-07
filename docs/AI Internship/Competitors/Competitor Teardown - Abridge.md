@@ -1,6 +1,6 @@
 ---
 title: Competitor Teardown - Abridge
-updated: 2026-07-07 11:46 EDT
+updated: 2026-07-07 12:24 EDT
 ---
 
 #capstone #ai-internship #neurology #competitor #deep-dive #scribe
@@ -16,7 +16,7 @@ Related: [[Competitor Deep-Dive Framework]] · [[Week 1 - Neurology Research]] �
 
 ## TL;DR (60-second read)
 
-Abridge is the **most-validated AI medical scribe in the US** — ambient audio → structured clinical note, with deep Epic integration and the trademarked "Linked Evidence" feature that ties every AI-drafted claim to the source transcript. Pittsburgh-based; founded 2018 by Shiv Rao (cardiologist + Wharton MBA). 2025 + 2026 Best in KLAS for ambient AI. **$300M Series E at $5.3B valuation (Feb 2025)**, four months after a $250M Series D. 300+ health systems (including Mayo, Cleveland Clinic, UPMC, Stanford). 
+Abridge is the **most-validated AI medical scribe in the US** — ambient audio → structured clinical note, with deep Epic integration and the trademarked "Linked Evidence" feature that ties every AI-drafted claim to the source transcript. Pittsburgh-based; founded 2018 by Shiv Rao (cardiologist; Carnegie Mellon history major — not Wharton MBA). 2025 + 2026 Best in KLAS for ambient AI. **$300M Series E at $5.3B valuation (June 2025)**, ~8 months after a $250M Series D. 300+ health systems (including Mayo, Cleveland Clinic, UPMC, Stanford).
 
 Pricing is enterprise-only, $208–$800/provider/mo per multiple third-party estimates. The JAMA Network Open 6-health-system study (Olson et al., Oct 2025) showed burnout dropped from 51.9% → 38.8% in 30 days — the strongest published clinical evidence for any ambient scribe. 
 
@@ -28,7 +28,7 @@ Pricing is enterprise-only, $208–$800/provider/mo per multiple third-party est
 
 ### 1.1 One-paragraph company summary
 
-Abridge is the Pittsburgh, PA–based, generative-AI clinical documentation company founded in **2018** by Dr. Shiv Rao, a cardiologist with a Wharton MBA who left UPMC's cardiology practice to build it. The product is an ambient AI scribe: the doctor opens the Abridge app on a phone (iPhone first, Android added 2023), records the patient encounter, and Abridge's LLM stack generates a structured specialty note (SOAP, H&P, neuro H&P, etc.) with timestamped attribution back to the source audio via its "Linked Evidence" feature. The note writes into Epic (deepest integration), Cerner/Oracle Health, and athenahealth via SMART-on-FHIR. Median note generation time has dropped from 76 sec (Jul 2023) to 38 sec (Apr 2024). Abridge is the **2025 and 2026 Best in KLAS winner for ambient AI** (per homepage) and the only ambient AI scribe with a peer-reviewed JAMA Network Open study (Olson et al., Oct 2025, n=263 across 6 health systems). The company is deployed at **300+ health systems** including Mayo Clinic, Cleveland Clinic, UPMC, Stanford, Emory, Yale, and the entire University of California system. Raised **~$808M total** across 5+ rounds: $5M seed → $15M Series A → $40M Series B → $150M Series C (Feb 2024) → $250M Series D (Oct 2024) → $300M Series E (Feb 2025) at a **$5.3B valuation**, led by a16z and Khosla Ventures. Headcount estimated 400+ (LinkedIn).
+Abridge is the Pittsburgh, PA–based, generative-AI clinical documentation company founded in **2018** by Dr. Shiv Rao, a practicing cardiologist (Carnegie Mellon history major; not Wharton MBA) who left UPMC's cardiology practice to build it. The product is an ambient AI scribe: the doctor opens the Abridge app on a phone (iPhone first, Android added 2023), records the patient encounter, and Abridge's LLM stack generates a structured specialty note (SOAP, H&P, neuro H&P, etc.) with timestamped attribution back to the source audio via its "Linked Evidence" feature. The note writes into Epic (deepest integration), Cerner/Oracle Health, and athenahealth via SMART-on-FHIR. Median note generation time has dropped from 76 sec (Jul 2023) to 38 sec (Apr 2024). Abridge is the **2025 and 2026 Best in KLAS winner for ambient AI** (per homepage) and the only ambient AI scribe with a peer-reviewed JAMA Network Open study (Olson et al., Oct 2025, n=263 across 6 health systems). The company is deployed at **300+ health systems** including Mayo Clinic, Cleveland Clinic, UPMC, Stanford, Emory, Yale, and the entire University of California system. Raised **~$808M total** across 5+ rounds: $5M seed → $15M Series A → $40M Series B → $150M Series C (Feb 2024) → $250M Series D (Oct 2024) → $300M Series E (June 2025) at a **$5.3B valuation**, led by a16z and Khosla Ventures. Headcount estimated 400+ (LinkedIn).
 
 > Verbatim homepage (https://www.abridge.com/): *"Abridge is recognized as a market leader in ambient AI and earned the 2025 and 2026 Best in KLAS award."*
 > Verbatim homepage tagline: *"One intelligence layer connecting health systems, payers, and life sciences organizations. Built by clinicians, for clinicians—trusted by 300+ health systems."*
@@ -37,7 +37,7 @@ Abridge is the Pittsburgh, PA–based, generative-AI clinical documentation comp
 
 1. **Ambient clinical conversation capture** — iPhone/iPad/Android app, secure recording with patient consent
 2. **Multi-speaker diarization** — separates patient, physician, family members, interpreters
-3. **Specialty note generation** — SOAP, H&P, neuro, cardiology, primary care, discharge summary, etc. Per Linked Evidence whitepaper, Abridge supports 30+ specialty templates
+3. **Specialty note generation** — SOAP, H&P, neuro, cardiology, primary care, discharge summary, etc. Per Fierce Healthcare June 2025, Abridge supports 55 specialties (up from 30+ cited in earlier Linked Evidence whitepaper)
 4. **"Linked Evidence"** — trademarked feature: highlight any sentence in the AI-drafted note → see + hear the source transcript segment that produced it. Per Abridge's own docs: *"Linked Evidence helps you view the origin of particular AI summaries so you can see the source of truth."* (https://support.abridge.com/hc/en-us/articles/30235128433811-Verify-a-Note-With-Linked-Evidence)
 5. **Multilingual** — 15+ languages including Spanish, Mandarin, Portuguese, Arabic
 6. **EHR write-back** — bi-directional Epic, Cerner/Oracle, athena via SMART-on-FHIR + ambient dictation
@@ -66,7 +66,7 @@ Abridge is the Pittsburgh, PA–based, generative-AI clinical documentation comp
 | Series B | 2022 | $40M | — | |
 | Series C | Feb 2024 | $150M | — | Lightspeed |
 | Series D | Oct 2024 | $250M | ~$2.5B | Lightspeed, a16z, Khosla |
-| **Series E** | **Feb 2025** | **$300M** | **$5.3B** | **a16z, Khosla** |
+| **Series E** | **June 2025** | **$300M** | **$5.3B** | **a16z, Khosla** |
 
 **Total raised: ~$808M** (per Crunchbase aggregate, https://news.crunchbase.com/health-wellness-biotech/ai-doctor-note-taking-startup-abridge/)
 
@@ -77,7 +77,7 @@ The following data comes from two Abridge whitepapers published in 2024–2025 �
 **ASR Performance:**
 - Internal medical benchmark WER: **12.7%**
 - **24% relative reduction** in WER vs. other medical ASR models (internal benchmark)
-- **81–83% relative reduction** in error on new medications vs. off-the-shelf models
+- **83% relative reduction** in error on new medications vs. off-the-shelf models (per Abridge "Becoming the Benchmark" blog)
 - Medical Term Recall (MTR): **97%** (internal benchmark)
 - On generic Librispeech benchmark: comparable to Whisper v3 (OpenAI)
 - Spanish WER: 3.1% vs. 6.2% English

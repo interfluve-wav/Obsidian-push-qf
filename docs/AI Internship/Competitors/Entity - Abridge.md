@@ -1,6 +1,6 @@
 ---
 title: Entity - Abridge
-updated: 2026-07-07 11:46 EDT
+updated: 2026-07-07 12:24 EDT
 ---
 
 #capstone #ai-internship #neurology #competitors #entities
@@ -13,23 +13,23 @@ tags: [abridge, ambient-ai, clinical-documentation, AI-scribe, healthcare-AI, un
 
 ## Overview
 
-Abridge is a San Francisco–based clinical AI company founded in 2018 by Dr. Shiv Rao (practicing cardiologist and CEO). The company builds ambient AI documentation systems that listen to clinical conversations in real time and generate structured medical notes (SOAP notes and specialty formats) for physician review and EHR entry. As of 2025, Abridge processes over 1 million clinical encounters per week across 150+ health systems, supports 28+ languages and 50+ specialties, and was named Best in KLAS 2025.
+Abridge is a Pittsburgh, PA–based clinical AI company founded in 2018 by Dr. Shiv Rao (practicing cardiologist and CEO). The company builds ambient AI documentation systems that listen to clinical conversations in real time and generate structured medical notes (SOAP notes and specialty formats) for physician review and EHR entry. As of 2025, Abridge processes over 1 million clinical encounters per week across 150+ health systems, supports 28+ languages and 50+ specialties, and was named Best in KLAS 2025.
 
 ## Key Facts
 
 - **Founded:** 2018
-- **Headquarters:** San Francisco, CA
-- **CEO:** Shiv Rao, MD (practicing cardiologist; still takes monthly weekend hospital shifts)
+- **Headquarters:** Pittsburgh, PA
+- **CEO:** Shiv Rao, MD (practicing cardiologist; still sees patients one week a month per HLTH interview; Carnegie Mellon history major — not Wharton MBA)
 - **CTO / Chief Science Officer:** Zachary C. Lipton, PhD (also associate professor at Carnegie Mellon University)
 - **COO:** Julia Chou (former Google)
 - **CFO:** Sagar Sanghvi (former CFO of Instacart)
 - **CPO:** Mario Queiroz (former Google)
 - **General Counsel:** Tim Hwang (former Google)
 - **CCO:** Brian Wilson (healthcare veteran)
-- **Funding:** $250M Series D (2025), led by Elad Gil and IVP; prior rounds include unnamed investors
-- **Valuation:** $2.75B (post-Series D)
+- **Funding:** $300M Series E (June 2025) at $5.3B valuation, led by a16z and Khosla; prior $250M Series D (Oct 2024) led by Lightspeed, a16z, Khosla at ~$2.5B
+- **Valuation:** $5.3B (post-Series E, June 2025)
 - **2025 KLAS:** Best in KLAS winner (clinical documentation)
-- **Scale:** 100+ health systems; 1M+ encounters/week; 28+ languages; 50+ specialties
+- **Scale:** 150+ health systems; 1M+ encounters/week; 28+ languages; 55 specialties
 - **Notable customers:** Mayo Clinic, Johns Hopkins Medicine, Duke Health, Memorial Sloan Kettering, UNC Health, Christus Health, UChicago Medicine, Endeavor Health, Inova Health System, Akron Children's
 
 ## Technical Architecture (Layer 1 + 2)

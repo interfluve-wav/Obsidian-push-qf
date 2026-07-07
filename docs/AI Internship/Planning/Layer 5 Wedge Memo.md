@@ -1,6 +1,6 @@
 ---
 title: "Layer 5 Wedge Memo — Pre-Visit Synthesis for Neurology"
-updated: 2026-07-07 12:05 EDT
+updated: 2026-07-07 12:24 EDT
 tags: [capstone, ai-internship, neurology, strategy, layer-5, wedge]
 ---
 
@@ -60,15 +60,19 @@ Total opportunity = Prevalence × Pain × Shortage ÷ (AI maturity × Build diff
 | Subspecialty | Total | Why |
 |---|---|---|
 | **Headache / Migraine** | 25 | 47M US patients, AI greenfield, easiest to build, general-neuro chief complaint |
-| **Cognitive / Dementia** | 25 | 6.5M US, only 4 geriatric neuro sites, caregiver-in-the-loop maps directly to pain #7 |
+| **Cognitive / Dementia** | 25 | 7.4M Alzheimer's (2026, Alzheimer's Association Facts & Figures), only ~4 geriatric neuro sites (re-verify against UCNS directory before Week 8) | Caregiver-in-the-loop maps directly to pain #7 |
 | Movement disorders | 15 | UPDRS drift + wearable data; needs StrivePD/Apple integration |
 | Epilepsy | 15 | Ceribell/encevis + visit note merge; harder build |
 
 **Recommended path for 8 weeks:** Headache (transcript-only, fastest to ship) **+** caregiver-in-the-loop as a cross-cutting feature (works for cognitive/dementia, stroke recovery, severe MS). The caregiver channel differentiates from every scribe in the market.
 
-## Why Abridge is the acquisition target, not the competitor
+## Why Abridge is the natural Layer 5 tuck-in (strategic view, not a sourced fact)
 
-Abridge has the strongest position to build Layer 5 — Epic integration (300+ systems), specialty templates (50+), KLAS-leading — but explicitly does **not** own longitudinal chart synthesis, the caregiver channel, or between-visit data. Their CEO (cardiologist Shiv Rao) frames Abridge as "the most initial wedge into a much larger opportunity" — meaning they know Layer 5 is the next move. The right strategy is to build the Layer 5 thin slice, validate it, and become the obvious Layer 5 tuck-in. (This is positioning for the Week 8 deck, not an exit plan.)
+This is a **strategic position** derived from the cross-competitor analysis, not a verifiable external claim. Reasoning:
+
+- Abridge has the strongest position to build Layer 5 — Epic integration (300+ systems), specialty templates (55, per Fierce Healthcare June 2025), KLAS-leading — but explicitly does **not** own longitudinal chart synthesis, the caregiver channel, or between-visit data.
+- Their CEO (cardiologist Shiv Rao) frames Abridge as "the most initial wedge into a much larger opportunity" — meaning they know Layer 5 is the next move.
+- Therefore (strategic inference): the right play is to build the Layer 5 thin slice, validate it, and become the obvious Layer 5 tuck-in. **This is positioning for the Week 8 deck, not an exit plan.**
 
 ## What this memo is NOT
 

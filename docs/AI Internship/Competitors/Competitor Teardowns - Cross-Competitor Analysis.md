@@ -1,6 +1,6 @@
 ---
 title: Competitor Teardowns - Cross-Competitor Analysis
-updated: 2026-07-07 11:46 EDT
+updated: 2026-07-07 12:24 EDT
 ---
 
 #capstone #ai-internship #neurology #competitors #cross-comparison
@@ -27,7 +27,7 @@ The 3 teardowns cover one company per layer of the AI taxonomy: **Abridge** (Lay
 | **Founded** | 2018 | 2016 | 2014 |
 | **HQ** | Pittsburgh, PA | San Francisco, CA + Tel Aviv | Sunnyvale, CA |
 | **Total raised** | ~$808M | ~$291.5M | ~$207M IPO + ~$188M pre-IPO = ~$395M |
-| **Valuation / market cap** | $5.3B (Series E, Feb 2025) | $1.2B (Series D, 2022) | ~$578M IPO (Oct 2024); public since |
+| **Valuation / market cap** | $5.3B (Series E, June 2025) | $1.2B (Series D, 2022) | ~$578M IPO (Oct 2024); public since |
 | **Funding stage** | Series E | Series D (mature) | Public (Nasdaq: CBLL) |
 | **FY2025 revenue** | Not disclosed (estimate $100M+) | $40M (2023) → ~$100M ARR (2025) | $89.1M (+36% YoY) |
 | **Customer count** | 300+ health systems | ~2,000 hospitals, 230M lives | 647 active hospital accounts |
