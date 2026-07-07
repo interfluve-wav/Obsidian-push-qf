@@ -46,7 +46,7 @@ jobs:
 
       - run: npm ci
       - run: npx quartz plugin install
-      - run: npx quartz build -d docs/AI Internship
+      - run: npx quartz build -d "docs/AI Internship"
 
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
